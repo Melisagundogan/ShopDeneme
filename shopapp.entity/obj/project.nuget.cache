@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mf5EbxX5uFY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melis\\OneDrive\\Desktop\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\melis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\concrete\\efcore\\efcoreproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\abstract\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\abstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C85F33-643E-4E69-AA2C-0BF93B7AF68A}|..\\business\\shopapp.business.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C85F33-643E-4E69-AA2C-0BF93B7AF68A}|..\\business\\shopapp.business.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C85F33-643E-4E69-AA2C-0BF93B7AF68A}|..\\business\\shopapp.business.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\concrete\\efcore\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\_categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\_categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\models\\productdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:models\\productdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\product\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\product\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6152B74-7636-4268-8170-80ABDB299C22}|..\\shopapp.entity\\shopapp.entity.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6152B74-7636-4268-8170-80ABDB299C22}|..\\shopapp.entity\\shopapp.entity.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6152B74-7636-4268-8170-80ABDB299C22}|..\\shopapp.entity\\shopapp.entity.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6152B74-7636-4268-8170-80ABDB299C22}|..\\shopapp.entity\\shopapp.entity.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.entity\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\viewcomponents\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:viewcomponents\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\viewmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:viewmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\shopapp.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:shopapp.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shop\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shop\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\concrete\\efcore\\seeddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\shopapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C85F33-643E-4E69-AA2C-0BF93B7AF68A}|..\\business\\shopapp.business.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\business\\shopapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\concrete\\efcore\\efcorecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D17C0CE-FCDF-48E6-88A5-1F60972794F0}|..\\shopapp.data\\shopapp.data.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.data\\concrete\\efcore\\efcoregenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C85F33-643E-4E69-AA2C-0BF93B7AF68A}|..\\business\\shopapp.business.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6152B74-7636-4268-8170-80ABDB299C22}|..\\shopapp.entity\\shopapp.entity.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.entity\\shopapp.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\shared\\_noproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\shared\\_noproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\5.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\5.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\6.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\6.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\pembe.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\pembe.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\ls.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\ls.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\lc.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\lc.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\krem.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\krem.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\k\u0131rm\u0131z\u0131.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\k\u0131rm\u0131z\u0131.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\kahve.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\kahve.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\h.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\h.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\gri.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\gri.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\camel.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\camel.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\biv.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\biv.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\big.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\big.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\bibj.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\bibj.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\bia.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\bia.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\beyaz.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\beyaz.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\antrasit.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\antrasit.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melis\\AppData\\Local\\Temp\\.vsdbgsrc\\10a10fb5ab87e1c67be777f439651faeb9d5f080494591e5e814fec4235d7c39\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melis\\AppData\\Local\\Temp\\.vsdbgsrc\\e7f9eeee451babae3799af2daffe0a4f504d2e5a522ee81c57ef33853eb8a0e2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\wwwroot\\img\\3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:wwwroot\\img\\3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|c:\\users\\melis\\source\\repos\\shopdeneme\\shopapp.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E24A9C4-8347-401D-BC92-CCAA2EF818EB}|shopapp.webui.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 85,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Abstract\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Abstract\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Abstract\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Abstract\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:47:00.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Abstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Abstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Abstract\\IProductRepository.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Abstract\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:29:44.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Abstract\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:40:40.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfCoreProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\EfCoreProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Concrete\\EfCore\\EfCoreProductRepository.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\EfCoreProductRepository.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Concrete\\EfCore\\EfCoreProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:33:03.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Abstract\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Abstract\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Abstract\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Abstract\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:28:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "..\\business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "..\\business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:50:30.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "..\\business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T21:22:02.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\business\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "..\\business\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:48:12.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\ShopContext.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Concrete\\EfCore\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\ShopContext.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Concrete\\EfCore\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:33:26.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:51:21.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:12:42.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T09:59:47.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Categories.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_Categories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Categories.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_Categories.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Categories.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:40:53.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:18:30.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Models\\ProductDetailModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDetailModel.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Models\\ProductDetailModel.cs",
+              "RelativeToolTip": "Models\\ProductDetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:03:02.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_product.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_product.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_product.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:42:14.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_navbar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_navbar.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_navbar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:41:46.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:41:35.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:41:14.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_header.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_header.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:12:38.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T16:27:31.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T12:52:00.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyView.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Home\\MyView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyView.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Home\\MyView.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T12:51:58.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwEQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:03:07.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Views\\Product\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T16:20:48.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\Index2.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T12:52:04.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T16:11:04.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T12:52:02.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T12:51:57.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T12:51:57.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\Order.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.entity\\Order.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\Order.cs",
+              "RelativeToolTip": "..\\shopapp.entity\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:45:15.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\Category.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.entity\\Category.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\Category.cs",
+              "RelativeToolTip": "..\\shopapp.entity\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:21:01.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\Product.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.entity\\Product.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\Product.cs",
+              "RelativeToolTip": "..\\shopapp.entity\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:21:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.entity\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\ProductCategory.cs",
+              "RelativeToolTip": "..\\shopapp.entity\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:22:01.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:00:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoriesViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\ViewComponents\\CategoriesViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\CategoriesViewComponent.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\ViewComponents\\CategoriesViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\CategoriesViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:21:09.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\ViewModels\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\ViewModels\\ProductListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:21:18.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\ViewModels\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\ViewModels\\ProductModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:57:29.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "shopapp.webui.csproj",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\shopapp.webui.csproj",
+              "RelativeDocumentMoniker": "shopapp.webui.csproj",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\shopapp.webui.csproj",
+              "RelativeToolTip": "shopapp.webui.csproj",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T12:34:49.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SeedDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\SeedDatabase.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Concrete\\EfCore\\SeedDatabase.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\SeedDatabase.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Concrete\\EfCore\\SeedDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:01:18.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shop\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\List.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shop\\List.cshtml",
+              "RelativeToolTip": "Views\\Shop\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T08:21:03.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:51:12.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "shopapp.data.csproj",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\shopapp.data.csproj",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\shopapp.data.csproj",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\shopapp.data.csproj",
+              "RelativeToolTip": "..\\shopapp.data\\shopapp.data.csproj",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T12:27:39.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "shopapp.business.csproj",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\shopapp.business.csproj",
+              "RelativeDocumentMoniker": "..\\business\\shopapp.business.csproj",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\shopapp.business.csproj",
+              "RelativeToolTip": "..\\business\\shopapp.business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T21:16:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EfCoreCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\EfCoreCategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Concrete\\EfCore\\EfCoreCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\EfCoreCategoryRepository.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Concrete\\EfCore\\EfCoreCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:40:08.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EfCoreGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\EfCoreGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\shopapp.data\\Concrete\\EfCore\\EfCoreGenericRepository.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.data\\Concrete\\EfCore\\EfCoreGenericRepository.cs",
+              "RelativeToolTip": "..\\shopapp.data\\Concrete\\EfCore\\EfCoreGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:32:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAF4TAAAAAAAAAIAwwHYTAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-12T11:08:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "..\\business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "..\\business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:56:23.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "shopapp.entity.csproj",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\shopapp.entity.csproj",
+              "RelativeDocumentMoniker": "..\\shopapp.entity\\shopapp.entity.csproj",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.entity\\shopapp.entity.csproj",
+              "RelativeToolTip": "..\\shopapp.entity\\shopapp.entity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T09:45:01.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_noproduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_noproduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_noproduct.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\Shared\\_noproduct.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_noproduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:42:13.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Pembe.jpg - Bitmap [776x963, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\Pembe.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\Pembe.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\Pembe.jpg - Bitmap [776x963, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\Pembe.jpg - Bitmap [776x963, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:13:53.243Z",
+              "EditorCaption": " - Bitmap [776x963, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "5.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\5.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\5.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\5.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\5.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:36:25.711Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LS.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\LS.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\LS.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\LS.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\LS.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:13:53.893Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LC.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\LC.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\LC.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\LC.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\LC.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:36:39.708Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "krem.jpg - Bitmap [763x919, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\krem.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\krem.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\krem.jpg - Bitmap [763x919, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\krem.jpg - Bitmap [763x919, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:58:07.774Z",
+              "EditorCaption": " - Bitmap [763x919, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "6.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\6.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\6.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\6.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\6.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:36:01.475Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "k\u0131rm\u0131z\u0131.jpg - Bitmap [778x967, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\k\u0131rm\u0131z\u0131.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\k\u0131rm\u0131z\u0131.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\k\u0131rm\u0131z\u0131.jpg - Bitmap [778x967, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\k\u0131rm\u0131z\u0131.jpg - Bitmap [778x967, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:58:06.873Z",
+              "EditorCaption": " - Bitmap [778x967, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "H.jpg - Bitmap [643x804, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\H.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\H.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\H.jpg - Bitmap [643x804, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\H.jpg - Bitmap [643x804, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:58:05.439Z",
+              "EditorCaption": " - Bitmap [643x804, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "camel.jpg - Bitmap [739x946, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\camel.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\camel.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\camel.jpg - Bitmap [739x946, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\camel.jpg - Bitmap [739x946, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:58:03.769Z",
+              "EditorCaption": " - Bitmap [739x946, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "kahve.jpg - Bitmap [763x985, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\kahve.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\kahve.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\kahve.jpg - Bitmap [763x985, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\kahve.jpg - Bitmap [763x985, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:57:20.185Z",
+              "EditorCaption": " - Bitmap [763x985, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BiV.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\BiV.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\BiV.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\BiV.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\BiV.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:58:02.769Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "gri.jpg - Bitmap [752x941, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\gri.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\gri.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\gri.jpg - Bitmap [752x941, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\gri.jpg - Bitmap [752x941, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:57:20.9Z",
+              "EditorCaption": " - Bitmap [752x941, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BiBj.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\BiBj.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\BiBj.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\BiBj.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\BiBj.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:58:01.044Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BiA.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\BiA.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\BiA.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\BiA.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\BiA.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:57:51.913Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BiG.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\BiG.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\BiG.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\BiG.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\BiG.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:57:21.548Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "beyaz.jpg - Bitmap [784x971, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\beyaz.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\beyaz.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\beyaz.jpg - Bitmap [784x971, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\beyaz.jpg - Bitmap [784x971, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T17:57:51.225Z",
+              "EditorCaption": " - Bitmap [784x971, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "1.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\1.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\1.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\1.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\1.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:35:46.767Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "2.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\2.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\2.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\2.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\2.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:08:02.876Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Antrasit.jpg - Bitmap [743x807, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\Antrasit.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\Antrasit.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\Antrasit.jpg - Bitmap [743x807, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\Antrasit.jpg - Bitmap [743x807, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:36:00.073Z",
+              "EditorCaption": " - Bitmap [743x807, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\AppData\\Local\\Temp\\.vsdbgsrc\\10a10fb5ab87e1c67be777f439651faeb9d5f080494591e5e814fec4235d7c39\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\10a10fb5ab87e1c67be777f439651faeb9d5f080494591e5e814fec4235d7c39\\Program.cs",
+              "ToolTip": "C:\\Users\\melis\\AppData\\Local\\Temp\\.vsdbgsrc\\10a10fb5ab87e1c67be777f439651faeb9d5f080494591e5e814fec4235d7c39\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\10a10fb5ab87e1c67be777f439651faeb9d5f080494591e5e814fec4235d7c39\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:35:09.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\AppData\\Local\\Temp\\.vsdbgsrc\\e7f9eeee451babae3799af2daffe0a4f504d2e5a522ee81c57ef33853eb8a0e2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e7f9eeee451babae3799af2daffe0a4f504d2e5a522ee81c57ef33853eb8a0e2\\Program.cs",
+              "ToolTip": "C:\\Users\\melis\\AppData\\Local\\Temp\\.vsdbgsrc\\e7f9eeee451babae3799af2daffe0a4f504d2e5a522ee81c57ef33853eb8a0e2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e7f9eeee451babae3799af2daffe0a4f504d2e5a522ee81c57ef33853eb8a0e2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:56:04.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "3.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\3.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\img\\3.jpg",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\wwwroot\\img\\3.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\img\\3.jpg - Bitmap [1200x1600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T15:35:49.641Z",
+              "EditorCaption": " - Bitmap [1200x1600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T10:28:10.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T16:27:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\ShopDeneme\\shopapp.webui\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T15:58:43.247Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
